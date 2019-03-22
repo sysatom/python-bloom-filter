@@ -5,7 +5,7 @@
 ### Install
 
 ```bash
-pip install PyBloomFilter
+pip install bfilter
 ```
 
 ### Usage
